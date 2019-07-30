@@ -1,15 +1,15 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
+  "sitename": "vkms",
+  "sitedescription": "A random template using Netlify CMS and Nuxt.js.",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": false,
+  "emailsignup": false,
+  "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "it's a link",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": "https://vkms.netlify.com"
     },
     {
       "name": "Nuxt.js",
